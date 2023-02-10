@@ -2,4 +2,4 @@
 
 - 🎓 Formada em Biotecnologia
 - 🧬 Aprendiz a Bioinformata
-- 📚 Estudando Python, CSS, HTML
+- 📚 Estudando Python, R, CSS, HTML
