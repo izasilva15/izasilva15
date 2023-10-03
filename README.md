@@ -1,7 +1,7 @@
-## Oie, Eu sou a Iza 👋
+##  Iza
 
-- 🎓 Formada em Biotecnologia
-- 🧬 Aspirante a Bioinformata
-- 👀 Entendo um pouquinho de Python e R
-- 📚 Estudando CSS e HTML 
+- Formada em Biotecnologia
+- Aspirante a Bioinformata
+- Python e R - Básico
+- Mestranda em Genética e Evolução
 ##
